@@ -663,7 +663,7 @@ position: absolute;
 #fthdata{
     display: flex;
     background-size: contain;
-    background-image: url(fthata.png);
+    background-image: url(fthdata.png);
     border: 3px solid black;
     background-color: white;
     position: absolute;
